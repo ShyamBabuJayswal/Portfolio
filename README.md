@@ -1,20 +1,20 @@
-# Personal Portfolio ⚡️ 
+# Personal Portfolio ⚡️
+
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
 > https://github.com/ShyamBabuJayswal
 
-
 :star: Star me on GitHub — it helps!
 
 ## Features 📋
+
 ⚡️ Fully Responsive\
 ⚡️ Valid HTML5 & CSS3\
 ⚡️ Typing animation using `Typed.js`\
 ⚡️ Easy to modify
 
-
-
 ## Sections 📚
+
 ✔️ About me\
 ✔️ Experience\
 ✔️ Projects \
@@ -27,18 +27,19 @@ To view a live example, **[click here]()**
 
 ## Tools Used 🛠️
 
-* [<b>Materialize</b>](https://materializecss.com/) - A CSS framework to get Google's Material Design components.
-* [<b>Typed.js</b>](https://mattboldt.com/demos/typed-js/) - JavaScript Library
+- [<b>Materialize</b>](https://materializecss.com/) - A CSS framework to get Google's Material Design components.
+- [<b>Typed.js</b>](https://mattboldt.com/demos/typed-js/) - JavaScript Library
 
 ## Contributing 💡
+
 #### Step 1
 
 - **Option 1**
-    - 🍴 Fork this repo!
+
+  - 🍴 Fork this repo!
 
 - **Option 2**
-    - 👯 Clone this repo to your local machine.
-
+  - 👯 Clone this repo to your local machine.
 
 #### Step 2
 
@@ -49,4 +50,5 @@ To view a live example, **[click here]()**
 - 🔃 Create a new pull request.
 
 ## License 📄
+
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
