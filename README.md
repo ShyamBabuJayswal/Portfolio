@@ -23,7 +23,7 @@
 ✔️ Contact Info\
 ✔️ Resume
 
-To view a live example, **[click here]()**
+To view a live example, **[click here](https://shyambabujayswal-dev.netlify.app/)**
 
 ## Tools Used 🛠️
 
